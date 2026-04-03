@@ -36,16 +36,20 @@ This system introduces:
 5. Assigned owner executes and updates status
 
 ## Current Build
-- [x] Project structure defined
-- [x] Initial concept documented
-- [ ] Excel intake system in progress
-- [ ] Dashboard planned
-- [ ] Automation layer planned
+
+✅ Excel-based Incident Intake & Tracking System  
+✅ Real-time Operations Dashboard (KPIs, Carrier & Status Views)  
+✅ AI-Assisted Incident Summary & Escalation Guidance  
+⬜ Automation Layer (planned – API / Python integration)
+
+---
 
 ## Next Steps
-- Build the Excel-based intake system
-- Add dashboard reporting
-- Expand AI outputs for RCA and reporting
+
+- Integrate API-based incident ingestion (ServiceNow / webhook simulation)
+- Automate incident enrichment and AI summary generation
+- Add SLA breach detection and alerting logic
+- Expand dashboard with trend analysis and historical reporting
 
 ## Goal
 Reduce incident response time, improve clarity, and eliminate inefficiencies during the critical early stages of incident management.
