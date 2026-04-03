@@ -65,11 +65,19 @@ This system enables:
 - Structured escalation guidance
 - Real-time visibility for leadership
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Incident Log
+![Incident Log](incident-log.png)
 
 
 
+## About Me
 
+I am a Technical Program Manager with a telecom background, building systems that improve incident response, operational visibility, and cross-team coordination.
 
+This project reflects real-world challenges I’ve managed and how I approach solving them using structured workflows and AI.
 
 
 
